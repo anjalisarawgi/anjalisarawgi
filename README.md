@@ -1,6 +1,6 @@
 ## Hi, I'm Anjali ✨
 
-I'm a Master's student in Statistics and Data Science at LMU Munich. I really enjoy working with domain experts to create machine learning based solutions to their problems. I like exploring different fields because I think each one comes with some challenges, and I learn the most when I am faced with these challenges.
+I'm a Master's student at LMU Munich. I really enjoy working with domain experts to create machine learning based solutions to their problems. I like exploring different fields because I think each one comes with some challenges, and I learn the most when I am faced with these challenges.
 
 I also believe that AI/ML models are powerful tools, and helping people from different domains use these technologies drives me. So, I make conscious efforts to find opportunities where I get to push myself to learn, apply what I know, and contribute, with an attempt to always keep my learning curve in an increasing trend. 
 
